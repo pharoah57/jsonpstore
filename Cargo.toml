@@ -1,0 +1,9 @@
+[package]
+name = "jsonpstore"
+version = "0.1.0"
+authors = ["boris <cbohnert@compasslearning.co>"]
+
+[dependencies]
+serde_json = "0.8.0"
+unqlite = "1.2.1"
+rustc-serialize = "0.3.19"
